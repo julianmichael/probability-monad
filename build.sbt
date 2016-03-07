@@ -1,8 +1,8 @@
 name := "probability-monad" // insert clever name here
 
-scalaVersion := "2.11.4"
+scalaVersion := "2.11.7"
 
-crossScalaVersions := Seq("2.10.3", "2.11.4")
+crossScalaVersions := Seq("2.10.3", "2.11.7")
 
 scalacOptions ++= Seq("-Xfatal-warnings", "-deprecation")
 
